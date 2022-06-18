@@ -1,0 +1,12 @@
+numpy==1.22.3
+pandas==1.4.1
+streamlit
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+scipy
+scikit-learn
+matplotlib
+flasgger
